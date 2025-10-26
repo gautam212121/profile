@@ -644,7 +644,7 @@ body {
 header {
     margin-right: 10px;
     /* margin-left: 10px; */
-    background: black;
+    background: #0D1117;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -893,8 +893,8 @@ hr {
     /* position: fixed; */
     bottom: 0;
     width: 100%;
-    background: rgb(34, 35, 36);
-    color: white;
+    background: #1F2937 ;
+    color: #2563EB;
     text-align: center;
     /* height: 20vh; */
     padding: 10px;
@@ -926,4 +926,5 @@ hr {
 .social-icons img:hover {
     transform: scale(1.12) rotate(-6deg);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.13);
+
 }
